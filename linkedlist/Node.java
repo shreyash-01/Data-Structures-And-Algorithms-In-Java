@@ -1,6 +1,6 @@
 package org.dsa.linkedlist;
 
-public class Node {
+class Node {
     int data;
     Node next;
 
